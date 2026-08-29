@@ -2,18 +2,11 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "variant-a-retool",
+      "name": "web",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev", "--", "-p", "3001"],
-      "cwd": "variant-a-retool",
+      "cwd": "web",
       "port": 3001
-    },
-    {
-      "name": "variant-b-mercury",
-      "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev", "--", "-p", "3002"],
-      "cwd": "variant-b-mercury",
-      "port": 3002
     }
   ]
 }
