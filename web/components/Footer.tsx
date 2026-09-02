@@ -30,7 +30,9 @@ export default function Footer() {
         <div>
           <p className="text-sm font-medium text-white">Contact</p>
           <ul className="mt-3 space-y-2 text-sm text-zinc-500">
-            <li>hello@demux.ro</li>
+            <li>contact@demux.ro</li>
+            <li>service@demux.ro</li>
+            <li>+40 735 428 572</li>
             <li>Romania</li>
           </ul>
         </div>
